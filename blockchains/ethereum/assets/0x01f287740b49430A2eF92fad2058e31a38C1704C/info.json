@@ -1,0 +1,25 @@
+{
+  "name": "ALTSETING Token",
+  "symbol": "ALTST",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "ALTSETING Token is a meme-powered crypto project with a WebApp miner and ecosystem. Creating the ALTSETINGCHAIN ​​blockchain (ATG) and implementing it into business ",
+  "website": "https://altseting.com",
+  "explorer": "https://etherscan.io/token/0x01f287740b49430A2eF92fad2058e31a38C1704C",
+  "status": "active",
+  "id": "0x01f287740b49430A2eF92fad2058e31a38C1704C"
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://x.com/altseting?s=21"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/ALTsetingtoken"
+    },
+    {
+      "name": "Website",
+      "url": "https://www.altseting.com"
+    },
+  ]
+}
